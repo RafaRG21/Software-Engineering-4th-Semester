@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/Usuario/Documents/Ingenieria en Desarrollo de Software/4° Semestre/Algoritmia y Bases de Datos/Tercer Parcial",
+      "environment": [],
+      "program": "c:/Users/Usuario/Documents/Ingenieria en Desarrollo de Software/4° Semestre/Algoritmia y Bases de Datos/Tercer Parcial/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
